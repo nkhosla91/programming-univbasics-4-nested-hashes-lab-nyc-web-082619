@@ -2,7 +2,7 @@
 def hopper
 	programmer_hash = 
  		{
-     ,
+     
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
